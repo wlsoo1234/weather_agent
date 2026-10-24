@@ -1,2 +1,6 @@
 ollama
 requests
+langchain
+langchain-ollama
+langgraph
+streamlit
